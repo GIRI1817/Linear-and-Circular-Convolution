@@ -10,7 +10,7 @@ PC installed with SCILAB.
 ## PROGRAM (Linear Convolution): 
 
 // Linear Convolution
-```
+```asm
 // Linear Convolution
 clc; clear;
 x = input("Enter x(n) as a row vector: ");   // e.g., [1 1 2 1]
@@ -53,7 +53,7 @@ xtitle("Linear Convolution y(n) = x(n) * h(n)");
 ## PROGRAM (Circular Convolution): 
 
 // Circular Convolution
-```
+```asm
 // Circular Convolution
 clc; clear;
 
